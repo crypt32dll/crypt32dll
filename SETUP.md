@@ -21,5 +21,5 @@ Until the workflow has run, the snake images in the README will 404 — that is 
 ## Customize
 
 - Typing lines: edit the `lines=` query on the [readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg) URL in `README.md`.
-- Badges: add/remove shields in the category blocks.
+- Skill icons: edit the `i=` query on [skillicons.dev](https://skillicons.dev) in `README.md`.
 - Snake palette: see [Platane/snk](https://github.com/Platane/snk).
