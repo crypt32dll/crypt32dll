@@ -73,6 +73,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Neon-00E699?style=flat-square&logo=neon&logoColor=000" alt="Neon" />
   <img src="https://img.shields.io/badge/Auth0-EB5424?style=flat-square&logo=auth0&logoColor=white" alt="Auth0" />
+  <img src="https://img.shields.io/badge/Keycloak-4D4D4D?style=flat-square&logo=keycloak&logoColor=white" alt="Keycloak" />
   <img src="https://img.shields.io/badge/Auth.js-000000?style=flat-square&logo=auth0&logoColor=white" alt="Auth.js" />
   <img src="https://img.shields.io/badge/NextAuth.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="NextAuth.js" />
 </p>
